@@ -699,5 +699,5 @@ You can now build your own infrastructure and application using the caching capa
 
 ## License summary
 
-This sample code is made available under a modified MIT license. See the LICENSE file for more information.
+This sample code is made available under a modified MIT license. See the LICENSE file for more information...
 
